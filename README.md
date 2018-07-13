@@ -12,7 +12,9 @@
 | ![component tree diagram](images/comp-tree.jpg) |
 
 # Link to static repo
-*
+* https://github.com/jessicaleighschmitz/Biblio-React-Native/tree/master/biblio-native
+
+I'm experiencing an error getting my simulator to run. Also, when I push to GitHub the project repo shows every project on my desktop computer. I tried everything in my wheel house to change this and i cannot figure it out. Since I have now wasted 2.5 hours trying to fix this project I am going to leave it until someone can show me how to fix my error. Thus, I won't be able to view my project at all while I develop it. GRRRR.
 
 # Capstone proposal
 
