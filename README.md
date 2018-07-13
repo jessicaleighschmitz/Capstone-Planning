@@ -7,9 +7,9 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-| Component Tree Diagram |
-| : __________________ : |
-| ![component tree diagram](images/comp-tree.jpg) |
+ Component Tree Diagram 
+
+ ![component tree diagram](images/comp-tree.jpg)
 
 # Link to static repo
 * https://github.com/jessicaleighschmitz/Biblio-React-Native/tree/master/biblio-native
