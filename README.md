@@ -7,7 +7,9 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
-# Component Tree Diagram
+| Component Tree Diagram |
+| : __________________ : |
+| ![component tree diagram](images/comp-tree.jpg) |
 
 # Link to static repo
 *
@@ -54,7 +56,6 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 * Camera Use library
 
 Is there anything else you’d like your instructor to know?
-
 Not currently.
 
 
