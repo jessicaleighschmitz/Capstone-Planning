@@ -12,9 +12,9 @@
  ![component tree diagram](images/comp-tree.jpg)
 
 # Link to static repo
-* https://github.com/jessicaleighschmitz/React-Native-Capstone/tree/master/biblio-native
+* https://github.com/jessicaleighschmitz/Biblio-React-Redux-Capstone
 
-I'm experiencing an error getting my simulator to run. Also, when I push to GitHub the project repo shows every project on my desktop computer. I tried everything in my wheel house to change this and i cannot figure it out. Since I have now wasted 2.5 hours trying to fix this project I am going to leave it until someone can show me how to fix my error. Thus, I won't be able to view my project at all while I develop it. GRRRR.
+
 
 # Capstone proposal
 
@@ -27,7 +27,6 @@ I'm experiencing an error getting my simulator to run. Also, when I push to GitH
 List the absolute minimum features the project requires to meet this purpose or goal:
 
 * Utilize a stateful object that tracks books as either read or to-read.
-* Search state data in search component.
 * User can add or remove a book to the read or to-read list when viewing the read,  to-read, or search list.
 * When a book is selected, that single book’s details are displayed for the user, as well as the drop-down selection options to change which list it appears on.
 * Login in page to access user’s specific book library. Will not include user authentication.
@@ -43,6 +42,7 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
+* Search state data in search component.
 * Utilize ISBN API for search functionality. Will show user author, title, year published, and synopsis based on search results.
 * User recorded book ratings that will be stateful(updateable).
 Ability for user to create and edit their profile information including avatar, username, email, and password.
