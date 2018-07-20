@@ -7,14 +7,22 @@
 <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square"></a>
 </p>
 
- Component Tree Diagram 
+ Component Tree Diagram
 
  ![component tree diagram](images/comp-tree.jpg)
+
+ Visual Representation
+
+ ![sketch file screenshots](images/home-nav.png)
+ ![sketch file screenshots](images/landing-add.png)
+ ![sketch file screenshots](images/lineup-search.png)
 
 # Link to static repo
 * https://github.com/jessicaleighschmitz/Biblio-React-Redux-Capstone
 
+# Notes
 
+I was able to get my state linked to my redux store and have it looping with conditional statements filtering the data. The code is pretty wet for now but it works. I am still trying to figure out how to make a parent container component that would map the data out to it's children while utilizing those conditional statements. My next goal is to start writing some actions in my reducer that will make it possible to display a selected book with more details. Finally, I will create a reducer that will be dispatched when a user clicks s button and be able to toggle the boolean values on the state that decide which list each book ends up on.
 
 # Capstone proposal
 
